@@ -5,4 +5,7 @@ This is a freecodecamp project from the track 'Frontend libraries'
 Built with React and some css. 
 <hr/>
 
+Project is supposed to be a piano/drum machine, since I dont have any drum sounds its now a piano machine.
+
+
 ![](bass.gif)
